@@ -1,11 +1,3 @@
-  GNU nano 4.8                          1-string_nconcat.c
-
-
-
-
-
-
-
 #include "main.h"
 #include <stdlib.h>
 
